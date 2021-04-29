@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9B592765-698E-4733-9354-8EBEFC33F247}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Agenda_Telefonica</RootNamespace>
+    <AssemblyName>Agenda Telefonica</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Alterar Contato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alterar Contato.Designer.cs">
+      <DependentUpon>Alterar Contato.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Anotacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Anotacao.Designer.cs">
+      <DependentUpon>Anotacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Contatos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contatos.Designer.cs">
+      <DependentUpon>Contatos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Excluir Contato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Excluir Contato.Designer.cs">
+      <DependentUpon>Excluir Contato.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Novo Contato.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Novo Contato.Designer.cs">
+      <DependentUpon>Novo Contato.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela Inicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela Inicial.Designer.cs">
+      <DependentUpon>Tela Inicial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Alterar Contato.resx">
+      <DependentUpon>Alterar Contato.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Anotacao.resx">
+      <DependentUpon>Anotacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contatos.resx">
+      <DependentUpon>Contatos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Excluir Contato.resx">
+      <DependentUpon>Excluir Contato.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Novo Contato.resx">
+      <DependentUpon>Novo Contato.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela Inicial.resx">
+      <DependentUpon>Tela Inicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Bll\Bll\Bll.csproj">
+      <Project>{b8b8d639-24ce-4f12-b3d9-eebd8b1e4a5c}</Project>
+      <Name>Bll</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dal\Dal\Dal.csproj">
+      <Project>{b4c1c1c3-3135-47be-9c59-eee83257f04e}</Project>
+      <Name>Dal</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dto\Dto\Dto.csproj">
+      <Project>{11b9374f-cd9d-4159-8f8d-e761223260e8}</Project>
+      <Name>Dto</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

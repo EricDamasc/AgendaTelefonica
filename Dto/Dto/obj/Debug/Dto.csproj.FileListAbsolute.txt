@@ -1,0 +1,6 @@
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Dto\Dto\bin\Debug\Dto.dll
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Dto\Dto\bin\Debug\Dto.pdb
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Dto\Dto\obj\Debug\Dto.csprojAssemblyReference.cache
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Dto\Dto\obj\Debug\Dto.csproj.CoreCompileInputs.cache
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Dto\Dto\obj\Debug\Dto.dll
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Dto\Dto\obj\Debug\Dto.pdb

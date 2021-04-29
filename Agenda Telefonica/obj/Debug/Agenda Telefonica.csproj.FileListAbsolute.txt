@@ -1,0 +1,32 @@
+C:\Users\Eric\Desktop\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Agenda Telefonica\bin\Debug\Agenda Telefonica.exe.config
+C:\Users\Eric\Desktop\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Agenda Telefonica\bin\Debug\Agenda Telefonica.exe
+C:\Users\Eric\Desktop\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Agenda Telefonica\bin\Debug\Agenda Telefonica.pdb
+C:\Users\Eric\Desktop\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Agenda Telefonica\obj\Debug\Agenda Telefonica.csprojAssemblyReference.cache
+C:\Users\Eric\Desktop\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Agenda Telefonica\obj\Debug\Agenda_Telefonica.Form1.resources
+C:\Users\Eric\Desktop\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Agenda Telefonica\obj\Debug\Agenda_Telefonica.Properties.Resources.resources
+C:\Users\Eric\Desktop\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Agenda Telefonica\obj\Debug\Agenda Telefonica.csproj.GenerateResource.cache
+C:\Users\Eric\Desktop\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Agenda Telefonica\obj\Debug\Agenda Telefonica.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Agenda Telefonica\obj\Debug\Agenda Telefonica.exe
+C:\Users\Eric\Desktop\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Agenda Telefonica\obj\Debug\Agenda Telefonica.pdb
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Agenda Telefonica\bin\Debug\Agenda Telefonica.exe.config
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Agenda Telefonica\bin\Debug\Agenda Telefonica.exe
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Agenda Telefonica\bin\Debug\Agenda Telefonica.pdb
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Agenda Telefonica\obj\Debug\Agenda Telefonica.csprojAssemblyReference.cache
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Agenda Telefonica\obj\Debug\Agenda_Telefonica.TelaInicial.resources
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Agenda Telefonica\obj\Debug\Agenda_Telefonica.Properties.Resources.resources
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Agenda Telefonica\obj\Debug\Agenda Telefonica.csproj.GenerateResource.cache
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Agenda Telefonica\obj\Debug\Agenda Telefonica.csproj.CoreCompileInputs.cache
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Agenda Telefonica\obj\Debug\Agenda Telefonica.exe
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Agenda Telefonica\obj\Debug\Agenda Telefonica.pdb
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Agenda Telefonica\obj\Debug\Agenda_Telefonica.Contatos.resources
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Agenda Telefonica\obj\Debug\Agenda_Telefonica.Novo_Contato.resources
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Agenda Telefonica\obj\Debug\Agenda_Telefonica.Excluir_Contato.resources
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Agenda Telefonica\bin\Debug\Bll.dll
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Agenda Telefonica\bin\Debug\Dal.dll
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Agenda Telefonica\bin\Debug\Dto.dll
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Agenda Telefonica\bin\Debug\Bll.pdb
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Agenda Telefonica\bin\Debug\Dal.pdb
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Agenda Telefonica\bin\Debug\Dto.pdb
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Agenda Telefonica\obj\Debug\Agenda Telefonica.csproj.CopyComplete
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Agenda Telefonica\obj\Debug\Agenda_Telefonica.Alterar_Contato.resources
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Agenda Telefonica\obj\Debug\Agenda_Telefonica.Anotacao.resources

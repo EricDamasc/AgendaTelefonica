@@ -1,0 +1,11 @@
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Bll\Bll\bin\Debug\Bll.dll
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Bll\Bll\bin\Debug\Bll.pdb
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Bll\Bll\obj\Debug\Bll.csprojAssemblyReference.cache
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Bll\Bll\obj\Debug\Bll.csproj.CoreCompileInputs.cache
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Bll\Bll\obj\Debug\Bll.dll
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Bll\Bll\obj\Debug\Bll.pdb
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Bll\Bll\bin\Debug\Dal.dll
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Bll\Bll\bin\Debug\Dto.dll
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Bll\Bll\bin\Debug\Dal.pdb
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Bll\Bll\bin\Debug\Dto.pdb
+C:\Users\Eric\OneDrive\Área de Trabalho\PROJETOS REAIS\01 - Agenda telefônica\Agenda telefônica\Bll\Bll\obj\Debug\Bll.csproj.CopyComplete
